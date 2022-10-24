@@ -1,0 +1,42 @@
+#bg {
+    background-color: #FF5894;
+}
+
+#pic {
+    display: flex;
+    justify-content: center;
+    padding-top: 15px;
+}
+
+#but,
+#ps {
+    display: flex;
+    justify-content: center;
+}
+
+.button {
+    background-color: #0D50A9;
+    border-radius: 16px;
+    width: 150px;
+    height: 30px;
+    color: #99F5E0;
+    font-size: 20px;
+}
+
+h3 {
+    color: #0D50A9;
+}
+
+.error {
+    position: absolute;
+    top: 90px;
+    left: 500px;
+    color: red;
+    font-size: 60px;
+    border: black;
+    -webkit-transform: rotate(330.75deg);
+    -moz-transform: rotate(330.75deg);
+    -ms-transform: rotate(330.75deg);
+    -o-transform: rotate(330.75deg);
+    transform: rotate(330.75deg);
+  }
